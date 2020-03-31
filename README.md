@@ -1,7 +1,8 @@
 # GameTracNhiem
 Game trắc nghiệm thi đấu đối kháng
 # 1. Giới thiệu ứng dụng
-- Ứng dụng game thi đấu trắc nghiệm đối kháng online bằng Java Socket Server.
+- Tên ứng dụng: game thi đấu trắc nghiệm đối kháng online
+- Ngôn ngữ: Java (java Swing, java Socket Server)
 # 2. Các chức năng chính
 - Đăng nhập.
 - Xem bảng xếp hạng điểm tất cả người chơi.
